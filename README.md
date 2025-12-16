@@ -18,3 +18,4 @@ This project involved building a Business Intelligence (BI) dashboard in **Micro
 * **Tools:** Microsoft Excel (Advanced Pivot Tables, Pivot Charts, and Data Visualization).
 * **Skills:** Data Aggregation, Financial Analysis, Data Storytelling, Dashboard Design.
 
+IMDbMovieDatabase-1554821516150_045526.xlsx
